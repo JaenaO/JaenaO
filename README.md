@@ -1,9 +1,8 @@
 👋 Hi, I’m Jaena Orozco!
 
-🌟 Aspiring Software Engineer | Web and Mobile Developer | UTD Student
+🌟  UTD Student Majoring Software Engineering | Aspiring Web and Mobile Developer
 
 🚀 About Me
-
 - 🎓 Junior majoring in Software Engineering at The University of Texas at Dallas
 - 💡 Passionate about web and mobile development, and exploring creating impactful user-centered projects
 - 💻 Currently honing my skills in React, Node.js, and AI integrations
